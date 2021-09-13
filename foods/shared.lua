@@ -1,0 +1,32 @@
+local foods = {
+  apple = {
+    eat_time = ,
+    digest_time = ,
+    water = {,},
+    carbohydrate_complex = {,},
+    carbohydrate_simple = {,},
+    protein = {,},
+    fats_saturated = {,},
+    fats_unsaturated = {,},
+    fibre = {,},
+    vitamin_A = {,},
+    vitamin_B1 = {,},
+    vitamin_B2 = {,},
+    vitamin_B3 = {,},
+    vitamin_B9 = {,},
+    vitamin_C = {,},
+    vitamin_D = {,},
+    vitamin_E = {,},
+    vitamin_K = {,},
+    mineral_Na = {,},
+    mineral_Ca = {,},
+    mineral_Mg = {,},
+    mineral_K = {,},
+    mineral_Fe = {,},
+    mineral_Zn = {,},
+    mineral_I = {,},
+    mineral_P = {,},
+  },
+}
+
+return foods
